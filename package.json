@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://sameralsudani.github.io/samero-website",
+  "homepage": "https://sameralsudani.github.io/samero",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
